@@ -18,8 +18,4 @@ Take a peek at some of the cool projects I've been part of or just want to share
 
 ## 🤝 Let's Connect
 
-If you're working on something awesome, need a hand, or just want to chat about the latest tech trends, hit me up:
-
-- [LinkedIn](https://www.linkedin.com/in/andres-benjamin-847007258/) 🌐
-
 Thanks for stopping by! Dive into my projects, and let's make something amazing happen together! 🌈
