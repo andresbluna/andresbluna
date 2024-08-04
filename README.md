@@ -10,12 +10,6 @@ I'm a coding enthusiast who loves tech. Always ready for a good challenge or a f
 - **Tech Stack**: From front-end magic with HTML/CSS/React to backend wizardry with SQL/MongoDB, I've got you covered. 🔧
 - **Methodology**: Agile? Check. Scrum? Got it. Kanban? Why not? I love working in teams and getting things done efficiently. 🔄
 
-## 🌟 Cool Stuff I've Worked On
-
-Take a peek at some of the cool projects I've been part of or just want to share:
-
-- **Project X**: A brief rundown of what it does, why it's cool, and maybe a link to the repo if you're curious. 📂
-
 ## 🤝 Let's Connect
 
 Thanks for stopping by! Dive into my projects, and let's make something amazing happen together! 🌈
