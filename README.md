@@ -1,15 +1,22 @@
-# 🚀 Hey there! I'm Andres Luna (@andresbluna) 🤝
+🚀 Hello! I'm Andres Luna (@andresbluna) 👨‍💻
+📖 About Me
+I'm a passionate software engineer with a strong foundation in backend and frontend development. I thrive on solving complex problems and building innovative solutions. Currently exploring new technologies, tools, and methodologies to stay at the forefront of the ever-evolving tech landscape. 🚀
 
-## 📖 About Me
+🛠️ Technical Skills
+Languages: Java, Python, JavaScript, TypeScript – with an emphasis on building scalable and maintainable systems. 💻
 
-I'm a coding enthusiast who loves tech. Always ready for a good challenge or a fun project. At the moment, I'm diving deep into learning new languages and tools—because why not? 🎯
+Frameworks & Tools: Spring Boot, Node.js, React.js, Next.js, Tailwind CSS, MongoDB, PostgreSQL, MySQL – shaping the future of full-stack applications. 🔧
 
-## 🛠️ What I Do
+Cloud & DevOps: Experience with Docker, Kubernetes, and CI/CD pipelines. Familiar with Azure and AWS. ☁️
 
-- **Languages**: Java, Python, and JavaScript are my go-tos, but I'm always ready to pick up something new. 🌐
-- **Tech Stack**: From front-end magic with HTML/CSS/React to backend wizardry with SQL/MongoDB, I've got you covered. 🔧
-- **Methodology**: Agile? Check. Scrum? Got it. Kanban? Why not? I love working in teams and getting things done efficiently. 🔄
+Methodologies: Agile (Scrum, Kanban), Test-Driven Development (TDD), SOLID principles – delivering high-quality software efficiently. 🔄
 
-## 🤝 Let's Connect
+📈 Current Focus
+Improving performance and scalability in cloud-based applications.
 
-Thanks for stopping by! Dive into my projects, and let's make something amazing happen together! 🌈
+Exploring microservices architecture and design patterns.
+
+Deepening my knowledge of security best practices and authentication systems (OAuth, JWT, Auth0). 🔐
+
+🤝 Let's Collaborate
+I'm always open to collaborating on open-source projects, technical discussions, and tackling exciting challenges. If you're interested in building something impactful or just want to chat about tech, feel free to reach out!
