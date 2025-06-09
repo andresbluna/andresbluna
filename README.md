@@ -1,22 +1,38 @@
-🚀 Hello! I'm Andres Luna (@andresbluna) 👨‍💻
-📖 About Me
-I'm a passionate software engineer with a strong foundation in backend and frontend development. I thrive on solving complex problems and building innovative solutions. Currently exploring new technologies, tools, and methodologies to stay at the forefront of the ever-evolving tech landscape. 🚀
+👋 Hey there, I'm Andres Luna (@andresbluna)
+🧠 About Me
+I’m a software engineer driven by curiosity and purpose. With a solid foundation in backend and frontend development, I specialize in crafting scalable, high-impact solutions that make a difference. I love tackling complex problems and turning ideas into reliable, secure, and beautiful products. Always learning. Always building. Always shipping. 🚀
 
-🛠️ Technical Skills
-Languages: Java, Python, JavaScript, TypeScript – with an emphasis on building scalable and maintainable systems. 💻
+🛠️ Tech Toolbox
+Languages:
+Java · Python · JavaScript · TypeScript
+Clean, maintainable, and scalable code is my signature.
 
-Frameworks & Tools: Spring Boot, Node.js, React.js, Next.js, Tailwind CSS, MongoDB, PostgreSQL, MySQL – shaping the future of full-stack applications. 🔧
+Frameworks & Libraries:
+Spring Boot · Node.js · React.js · Next.js · Tailwind CSS
+From RESTful APIs to responsive UIs – full-stack is my playground.
 
-Cloud & DevOps: Experience with Docker, Kubernetes, and CI/CD pipelines. Familiar with Azure and AWS. ☁️
+Databases:
+PostgreSQL · MySQL · MongoDB
+Designing efficient, reliable data models that grow with the product.
 
-Methodologies: Agile (Scrum, Kanban), Test-Driven Development (TDD), SOLID principles – delivering high-quality software efficiently. 🔄
+DevOps & Cloud:
+Docker · Kubernetes · GitHub Actions · Azure · AWS
+Deploy fast, scale smart, monitor always.
 
-📈 Current Focus
-Improving performance and scalability in cloud-based applications.
+Best Practices:
+Agile · Scrum · Kanban · SOLID · TDD · Spotify
+Because great software isn’t just built – it’s engineered.
 
-Exploring microservices architecture and design patterns.
+🚧 What I'm Working On
+Architecting performant, distributed systems in the cloud
 
-Deepening my knowledge of security best practices and authentication systems (OAuth, JWT, Auth0). 🔐
+Deep-diving into microservices & event-driven architectures
 
-🤝 Let's Collaborate
-I'm always open to collaborating on open-source projects, technical discussions, and tackling exciting challenges. If you're interested in building something impactful or just want to chat about tech, feel free to reach out!
+Strengthening app security with OAuth2, JWT & Auth0
+
+Building internal tools & libraries to accelerate development
+
+🤝 Let’s Build Something Together
+I’m always excited to connect with like-minded engineers, open-source contributors, and product teams solving meaningful problems. Whether it's for a project, a collab, or just a geeky chat about systems design or new tech – I’m all ears.
+
+💬 Let’s talk: @andresbluna::matrix.org 
